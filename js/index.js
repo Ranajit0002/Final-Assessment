@@ -1,5 +1,5 @@
 const menuToggle = document.querySelector(".menu-toggle");
-const navCollapse = document.querySelector(".navbar-collase");
+const navCollapse = document.querySelector(".navbar-collapse");
 const toggleIcon = menuToggle.querySelector("i");
 
 menuToggle.addEventListener("click", () => {

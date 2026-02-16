@@ -86,7 +86,7 @@ nav {
     justify-content: space-between;
 }
 
-.navbar-collase {
+.navbar-collapse {
     display: flex;
     align-items: center;
 }
@@ -582,7 +582,7 @@ button[type=submit]:hover i {
         z-index: 1001;
     }
 
-    .navbar-collase {
+    .navbar-collapse {
         display: none;
         flex-direction: column;
         width: 100%;
@@ -591,7 +591,7 @@ button[type=submit]:hover i {
         border-top: 1px solid #e0e0e0;
     }
 
-    .navbar-collase.active {
+    .navbar-collapse.active {
         display: flex;
         animation: fadeIn 0.4s ease;
     }
